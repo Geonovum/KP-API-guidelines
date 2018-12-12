@@ -4,7 +4,7 @@ This repository contains the API design guidelines for Dutch government APIs. Th
 
 ## Referring to components
 
-We recommend to use [jsDelivr](https://www.jsdelivr.com/network/infographic) when referring to the resuable OAS components in this repository. For example, if you want to refer to the `Content-Crs` header in `parameters.yaml`, you should use the following URL:
+We recommend to use [jsDelivr](https://www.jsdelivr.com/network/infographic) when referring to the reusable OAS components in this repository. For example, if you want to refer to the `Content-Crs` header in `parameters.yaml`, you should use the following URL:
 
 `https://cdn.jsdelivr.net/gh/geonovum/kp-api-guidelines@1.0.0/components/parameters.yaml#/contentCrs`
 
